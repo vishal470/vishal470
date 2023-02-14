@@ -1,10 +1,11 @@
+<img  width="1000" height="450" align="center" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+
 <h1 align="center">Hi 👋, I'm Vishal Sharma</h1>
-<img align="right" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
-
-
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal470&label=Profile%20views&color=0e75b6&style=flat" alt="vishal470" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal470" alt="vishal470" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs,MongoDb,PHP**
 
